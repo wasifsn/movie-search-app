@@ -6,5 +6,5 @@
 
 ### To run the APP
 * clone the app
-* run command $ npm i --save
+* run command $ npm i or $ npm install [YOUR CHOICE :)]
 * run command $ node app.js
